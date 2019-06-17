@@ -5,7 +5,7 @@ jsproxy_config({
   // 节点配置
   node_map: {
   	'cfworker': {
-      label: 'Cloudflare Worker',
+      label: 'Cloudflare Worker1',
       lines: [
         // 实验中...
         // 参考 https://github.com/EtherDream/jsproxy/tree/master/cf-worker

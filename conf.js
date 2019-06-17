@@ -30,7 +30,7 @@ jsproxy_config({
       lines: [
         // 实验中...
         // 参考 https://github.com/EtherDream/jsproxy/tree/master/cf-worker
-        'https://muddy-scene-2b9e.codingzhu.workers.dev:8443'
+        'muddy-scene-2b9e.codingzhu.workers.dev:8443'
       ]
     }
   },
